@@ -14,6 +14,10 @@ For evaluation:
 python eval_pgd_attack.py
 
 ```
+# Data and Models
+cifar10_data folder and trained models for CIFAR10 and CIFAR100 can be accessed through the following link.
+
+https://drive.google.com/drive/folders/1F6hHz1WbymE6w2hzWf6nNqMbd9-UvS5R?usp=share_link
 
 # Cite
 If you find this work is useful, please cite the following:
