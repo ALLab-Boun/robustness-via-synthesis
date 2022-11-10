@@ -7,12 +7,10 @@ This [paper](https://www.sciencedirect.com/science/article/pii/S0925231222013091
 For training
 ```
 python train.py
-
 ```
 For evaluation:
 ```
 python eval_pgd_attack.py
-
 ```
 # Data and Models
 cifar10_data folder and trained models for CIFAR10 and CIFAR100 can be accessed through the following link.
