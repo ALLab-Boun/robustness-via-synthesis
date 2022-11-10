@@ -17,6 +17,8 @@ cifar10_data folder and trained models for CIFAR10 and CIFAR100 can be accessed 
 
 https://drive.google.com/drive/folders/1F6hHz1WbymE6w2hzWf6nNqMbd9-UvS5R?usp=share_link
 
+Models for SVHN and TinyImagenet can be shared upon request.
+
 # Cite
 If you find this work is useful, please cite the following:
 ```
@@ -28,3 +30,5 @@ If you find this work is useful, please cite the following:
   publisher={Elsevier}
 }
 ```
+# Contact
+inci.baytas@boun.edu.tr
