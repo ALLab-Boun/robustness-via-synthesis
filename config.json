@@ -1,6 +1,6 @@
 {
   "_comment": "===== MODEL CONFIGURATION =====",
-  "model_dir": "models/cifar100_model",
+  "model_dir": "models/cifar10_model",
 
   "_comment": "===== DATASET CONFIGURATION =====",
   "data_path": "cifar10_data",
