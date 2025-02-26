@@ -22,7 +22,7 @@ Models for SVHN and TinyImagenet can be shared upon request.
 # Cite
 If you find this work is useful, please cite the following:
 ```
-@article{baytacs2023robustness,
+@article{baytas2023robustness,
   title={Robustness-via-synthesis: Robust training with generative adversarial perturbations},
   author={Bayta{\c{s}}, {\.I}nci M and Deb, Debayan},
   journal={Neurocomputing},
